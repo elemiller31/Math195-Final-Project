@@ -4,6 +4,7 @@ Alabama is currently stuck in the Milligan case .. I think I found the plans fro
 
 
 Use maup.assign to assign the Congressional Districts to the Voting precinct data.
+  -> in the data management part of 11/18
 Use a join to combine the US Census demographic precinct data to the Voting precinct data.
 
 This should form one big shapefile with all the info needed.
