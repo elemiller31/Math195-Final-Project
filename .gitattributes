@@ -1,1 +1,2 @@
+git add file.iso*.shp filter=lfs diff=lfs merge=lfs -text
 .shp filter=lfs diff=lfs merge=lfs -text
