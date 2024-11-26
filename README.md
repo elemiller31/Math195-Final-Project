@@ -5,8 +5,9 @@ Currently the congressional district map in Texas is in ligatigation. We want to
 We downloaded the congressional map from the Texas Legislative Council on the Capitol Data Portal at https://data.capitol.texas.gov/dataset/planc2193.
 
 
-For all of these, we should be able to use US Senate results to represent the US House elections
+Didn't elect a Senator in 2022 but need elect Governor and Attonery General. However, Governor did have some big names: Republican candidate was incumbent, running for his third term, and the Democratic one was Beto O'Rourke. However, the Attorney General's Republican candidate was facing fraud charges and being investigated by the FBI, and many GOP did not endorse or like him.
 
-
-Didn't elect a Senator in 2022 - need to look at another state-wide race
-Maybe can find another race to use here? https://redistrictingdatahub.org/dataset/texas-2022-general-election-results-on-texas-voting-tabulation-districts/
+Election data:
+https://redistrictingdatahub.org/dataset/texas-2022-general-election-results-on-texas-voting-tabulation-districts/
+https://data.capitol.texas.gov/dataset/2022_general
+https://data.capitol.texas.gov/dataset/comprehensive-election-datasets-compressed-format
