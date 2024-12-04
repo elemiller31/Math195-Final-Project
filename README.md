@@ -12,25 +12,25 @@ Then, I added used race demographic data at the block level from the [2020 Censu
 
 After joining all the data together and dealing with NaN values, I analyzed a random walk starting at a random initial plan. The walk showed that 6 democratic districts is most likely to occur as seen below. However, both 2021 and 2023 had 5 democratic districts, so it seems like the plans were also partisanly gerrymandered.
 
-[]('/graphics/random-init-democrat-likelihood.png')
+![]('/graphics/random-init-democrat-likelihood.png')
 
 For black majority districts, I found that 4 districts is most likely but 5 districts is super close as seen below. Meanwhile, there were 3 black majority districts in the 2021 plan and 4 black majority districts in 2023's plan. So it seems like the 2021 was definently racially gerrymandered, however, the 2023 could go either way since the ensemble demonstrated that 4 black-majority districts was basically as likely as 5 districts.
 
-[]('/graphics/rand-initi-black-maj.png')
+![]('/graphics/rand-initi-black-maj.png')
 
 To confirm that I ran the random walk for long enough, I ran a random walk from both the 2021 plan and the 2023 plan to compare their results to the random walk from a random initial plan. Below is a boxplot comparing the black population across districts from all three random walks as well as a boxplot comparing the democratic voter population across districts.
 
-[]('/black-pop-all-rws.png')
+![]('/black-pop-all-rws.png')
 
-[]('/dem-dist-all-rws.png')
+![]('/dem-dist-all-rws.png')
 
 The distribution for each random walk at each district looks similar, so the random walks ran for enough time.
 
 I also ran a random walk from the same random initial plan but for 20,000 steps instead of 10,000 steps. The boxplots comparing the population distributions are below.
 
-[]('/bpop-steps.png')
+![]('/bpop-steps.png')
 
-[]('/dem-steps.png')
+![]('/dem-steps.png')
 
 Since the distributions are similar between the 10,000 step and 20,000 step random walk, I condlude the random walk with 10,000 steps from which I did my analysis ran for long enough and explored the state space fully.
 
@@ -40,3 +40,4 @@ Information on court cases:
 - https://thearp.org/litigation/georgia-state-conf-naacp-v-georgia/
 - https://thearp.org/litigation/common-cause-v-raffensperger/
 - https://apnews.com/article/georgia-redistricting-house-senate-congress-lucy-mcbath-9ab4476a3877656867fc8a46a14c95ee
+- https://www.wabe.org/georgias-ongoing-redistricting-challenge-explained/
