@@ -8,7 +8,9 @@ Following the 2020 census, Texas passed their new congressional districting plan
 
 ## Data
 
-Since Texas has only had one districting plan put into place following the 2020 census, I wanted to compare that one to a Markov chain from a random districting plan. I used the congressional map shapefile from the Capitol Data Portal for the Texas Legislative Council. Then, I joined race demographics at the block level from the 2020 Census Data which I joined with block shapefile data from Tiger/Shapefiles website, which I then aggregated up to the precinct level to then combine with the voting data. This provided me with a GeoDataFrame with precinct voting and demographic data for Texas which I could use to run and analyze my Markov Chain.
+Since Texas has only had one districting plan put into place following the 2020 census, I wanted to compare that one to a Markov chain from a random districting plan. I used the congressional map shapefile from the Capitol Data Portal for the Texas Legislative Council. 
+
+I used the 2020 U.S. Presidential Election results from the University of Florida Election Lab. Then, I joined race demographics at the block level from the 2020 Census Data which I joined with block shapefile data from Tiger/Shapefiles website, which I then aggregated up to the precinct level to then combine with the voting data. This provided me with a GeoDataFrame with precinct voting and demographic data for Texas which I could use to run and analyze my Markov Chain.
 
 ## Analysis
 
