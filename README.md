@@ -4,7 +4,7 @@ For images see pdf report on main brainch.
 
 ## Background
 
-In November of 2021, Utah passed their congressional districting plan following the 2020 census. In March of 2022, the map was challenged as a partisan gerrymander against Democrats. The challenge is based on the claim that Republican legislators cracked Salt Lake County, a democratic leaning county. In the graphic representing the distribution of Democratic and Republican Voting Precincts, we can see that there is a blue clump of voters near the top. However, in the second graphic, we see that this area is split by all four districts.
+In November of 2021, Utah passed their congressional districting plan following the 2020 census. In March of 2022, the map was challenged as a partisan gerrymander against Democrats. The challenge is based on the claim that Republican legislators cracked Salt Lake County, a democratic leaning county. In the graphic representing the distribution of Democratic and Republican Voting Precincts, we can see that there is a blue clump of voters representing Democratic voters near the top, which is Salt Lake County. However, in the second graphic, we see that this county is split by all four districts.
 
 ## Data
 
