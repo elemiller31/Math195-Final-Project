@@ -1,5 +1,7 @@
 # South Carolina
 
+For images see pdf report on main branch
+
 ## Background
 
 In 2021, South Carolina passed their congressional districting plan following the 2020 census. In October of 2021, the South Carolina National Association for the Advancement of Colored People (NAACP)  filed a lawsuit saying that Congressional District 1 of the plan was a racial gerrymander. However, the case was dismissed with prejudice Aug 2024. Shortly before it was dismissed, in July, 2024, a new case was brought forth by the Women League of Voters of South Carolina claiming that the plan was a partisan gerrymander.
